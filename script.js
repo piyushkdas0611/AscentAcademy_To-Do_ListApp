@@ -27,4 +27,5 @@ document.getElementById("submit").onclick = function() {
             document.getElementById("task").style.textDecoration = "line-through";
         }
     }
+    document.getElementById("addTask").value = "";
 }

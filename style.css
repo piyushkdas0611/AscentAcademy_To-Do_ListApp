@@ -107,6 +107,11 @@ body {
 .control .btn2:hover {
     background-color: rgba(255, 0, 0, 0.501);
 }
+footer {
+    margin-top: 5rem;
+    text-align: center;
+    color: white;
+}
 @media (max-width:1920px) {
     body {
         max-width: 1920px;
