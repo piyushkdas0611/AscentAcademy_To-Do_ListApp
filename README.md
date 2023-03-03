@@ -1,5 +1,5 @@
 # AscentAcademy_To-Do_ListApp
-##Live Site Url: http://bit.ly/3IOOdzY
+## Live Site Url: http://bit.ly/3IOOdzY
 
 To-Do List App have a dynamic and responsive UI that allows you to create several to-do
 lists for daily tasks and easily add or remove items from the list. For this project, I have used HTML, CSS, JavaScript and Bootstrap. Furthermore, the
